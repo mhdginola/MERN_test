@@ -1,0 +1,19 @@
+.card{
+    border: 1px solid #434343;
+    border-radius: 16px;
+    margin: 16px;
+    padding: 8px;
+}
+
+.title, .id, p{
+    margin: 0px;
+}
+
+button.remove{
+    background-color:crimson;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 8px 8px 0px 0px;
+}

@@ -1,0 +1,40 @@
+.container{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.head{
+    text-align: center;
+}
+
+.form{
+    margin: 16px;
+}
+
+.form *{
+    display: block;
+    width: 100%;
+}
+
+label{
+    margin-top: 16px;
+}
+
+input, textarea{
+    margin-top: 8px;
+    padding: 8px;
+    font-size: medium;
+    box-sizing: border-box;
+}
+
+button{
+    background-color: mediumblue;
+    color:white;
+    font-size: medium;
+    border-radius: 8px;
+    border: none;
+    width: fit-content;
+    margin: 16px auto;
+    padding: 8px;
+}
